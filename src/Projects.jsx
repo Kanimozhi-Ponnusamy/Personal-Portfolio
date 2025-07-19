@@ -17,11 +17,11 @@ export default function Projects() {
     },
 
     {
-      title: "Blog Web App",
+      title: "Personal Portfolio",
       description:
-        "A dynamic blog platform built with React where users can read and interact with blog posts.",
-      link: "https://your-blog-link.com",
-      tech: ["React", "Bootstrap", "Firebase"],
+        "A personal portfolio built using React and Tailwind CSS to showcase projects, skills, and resume in a modern responsive layout.",
+      link: "https://github.com/Kanimozhi-Ponnusamy/Personal-Portfolio",
+      tech: ["React", "Tailwind CSS"],
     },
   ];
 
